@@ -1,3 +1,6 @@
+##A YouTube clone app 
+using Next Js, React Js, Material UI for styling and axios for fetching the data from Rapid API.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
